@@ -1,0 +1,7 @@
+name: EcoCore
+version: 1.0.0
+main: com.antidoubter.ecocore.EcoCore
+description: Economy Plugin
+author: AntiDoubter
+website: https://github.com/RobberChieftain
+api-version: 1.19
